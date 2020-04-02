@@ -1,5 +1,13 @@
 .App {
-  text-align: center;
+  text-align: left;
+  margin: 50px 400px auto 200px;
+}
+.App p{
+  font-size: 18px;
+}
+
+.assignment{
+  color: green;
 }
 
 .App-logo {
