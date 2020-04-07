@@ -5,9 +5,9 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <p>I couldn’t submit the restaurant (hot onion) assignment in time which was may be within 22 March for <strong>family problem (Land Property Issue)</strong>. Now the next deadline of submitting restaurant assignment is 14 April. Now I’m on module 30, so if I don’t start the next module now it will be difficult for me to submit the next assignment on time. <strong> My priority is now to submit the next assignment (Node+Mongo Assignment) on time</strong>, So now I will start the next module and submit the next assignment on time (which is 5 April) and then I’ll work on the restaurant assignment and will try to submit it within 7 April.</p>
+      <p>I couldn’t submit the restaurant (hot onion) assignment in time which was may be within 22 March for <strong>family problem (Land Property Issue)</strong>. Now the next deadline of submitting restaurant assignment is 14 April. Now I’m on module 35, so if I don’t start working on the Doctor's Portal Assignment it will be difficult for me to submit the assignment on time and it also carries lots of marks (100 marks).<strong> Now my priority is to submit the Doctors Portal Assignment on time</strong>, So I will start working on Doctor's Portal Assignment and will try my level best to submit the assignment on time and after that I’ll work on the due assignment and will try to submit it within 14 April.</p>
       <h3>I hope you understand. I will be very grateful if you consider my issue. Thanks.</h3>
-      <p>*** Work in progress, Work will be published on 7 April.</p>
+      <p>*** Work in progress, Work will be published within 14 April.</p>
 
       <h3 className='assignment'>My Previous Assignments Links:</h3>
       <ul>
