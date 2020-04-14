@@ -1,0 +1,21 @@
+.site-logo{
+    margin-left: 20px;
+    height: 40px;
+}
+.nav_links{
+    margin-right: 30px;
+}
+.nav-item{
+    margin-left: 20px;
+}
+.btn-login{
+    padding: 10px 20px;
+    color: white;
+    background-color: #E51A4B;
+    border-radius: 50px;
+
+}
+.site-notice{
+    text-align: center;
+    color: red;
+}

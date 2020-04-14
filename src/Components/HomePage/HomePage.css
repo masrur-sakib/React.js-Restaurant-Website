@@ -1,0 +1,22 @@
+.homepage-banner{
+    background-image: url('../../Images/bannerbackground.png');
+    height:80vh;
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+.banner-title{
+    text-align: center;
+}
+.search-food-item{
+    padding: 8px 30px;
+    border-radius: 30px;
+    text-align: left;
+}
+.btn-search{
+    margin-left: -50px;
+    padding: 10px 20px;
+    color: white;
+    background-color: #E51A4B;
+    border-radius: 50px;
+}
