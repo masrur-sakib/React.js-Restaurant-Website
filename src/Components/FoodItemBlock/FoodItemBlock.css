@@ -1,0 +1,11 @@
+.food-item-block{
+    width: 30%; 
+    height: 500px;
+    margin: 5px 5px;
+    text-align: center;
+    float: left;
+    transition: all .2s ease-in-out;
+}
+.food-item-block:hover{
+    transform: scale(1.05);
+}

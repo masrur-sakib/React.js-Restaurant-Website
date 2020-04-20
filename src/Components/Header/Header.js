@@ -8,7 +8,7 @@ const Header = () => {
     return (
         <div>
             <div>
-                <p className='site-notice bg-light'> <b> Site work is going on, Work will be done within 14th April </b></p>
+                <p className='site-notice bg-light'> <b> Site work is going on, Work will be done asap. </b></p>
             </div>
             <nav className="navbar navbar-expand-lg navbar-light">
                 <a href="/"><img className='site-logo' src={logo} alt="" /></a>
