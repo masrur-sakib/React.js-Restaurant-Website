@@ -7,6 +7,7 @@ import FoodItemBlock from '../FoodItemBlock/FoodItemBlock';
 
 const HomePage = () => {
     const [foodItem, setFoodItem] = useState(dummyData);
+    const [category, setCategory] = useState('breakfast');
     return (
         <div>
             <div className="d-flex align-items-center justify-content-center flex-column homepage-banner">
@@ -20,15 +21,15 @@ const HomePage = () => {
             </div>
 
             <div>
-                <ul className="nav justify-content-center">
-                    <li className="nav-item">
-                        <h6 className="nav-link active">Breakfast</h6>
+                <ul className="nav justify-content-center menu-type">
+                    <li onClick={()=>setCategory('breakfast')} className="nav-item">
+                        <h6 className={category === 'breakfast' ? "active nav-link" : "nav-link"}>Breakfast</h6>
                     </li>
-                    <li className="nav-item">
-                        <h6 className="nav-link">Launch</h6>
+                    <li onClick={()=>setCategory('lunch')} className="nav-item">
+                        <h6 className={category === 'lunch' ? "active nav-link" : "nav-link"}>Lunch</h6>
                     </li>
-                    <li className="nav-item">
-                        <h6 className="nav-link">Dinner</h6>
+                    <li onClick={()=>setCategory('dinner')} className="nav-item">
+                        <h6 className={category === 'dinner' ? "active nav-link" : "nav-link"}>Dinner</h6>
                     </li>
                 </ul>
 
@@ -36,7 +37,12 @@ const HomePage = () => {
 
             <div className='food-items'>
                 {
-                    foodItem.map((food) => <FoodItemBlock food={food}></FoodItemBlock> )
+                    foodItem.map((food) => {
+                    return(
+                        food.category === category &&
+                        <FoodItemBlock id={food.id} food={food}></FoodItemBlock>
+                    )
+                    })
                 }
                 
                 {/* foodItem.map(<foodItem foodItem={foodItem}></foodItem>) */}
