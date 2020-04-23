@@ -1,5 +1,5 @@
 .item-details{
-    margin: 2% 30% 2% 10%;
+    margin: 5% 30% 2% 10%;
 }
 .btn-add-to-cart{
     color: white;
@@ -14,3 +14,11 @@
     border-color: #bd2130;
     box-shadow: 0 0 0 #c82333;
   }
+.food-quantity{
+    margin: 0px 100px;
+    padding: 0px 10px;
+    border: 1px solid black;
+    border-radius: 50px;
+    line-height: 50px;
+    position: fixed;
+}
