@@ -1,0 +1,16 @@
+.item-details{
+    margin: 2% 30% 2% 10%;
+}
+.btn-add-to-cart{
+    color: white;
+    background-color: #E51A4B;
+    padding: 8px 20px;
+    border-radius: 30px;
+    border-color: #E51A4B;
+}
+.btn-add-to-cart:hover {
+    color: #fff;
+    background-color: #c82333;
+    border-color: #bd2130;
+    box-shadow: 0 0 0 #c82333;
+  }

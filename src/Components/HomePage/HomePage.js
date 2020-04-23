@@ -6,7 +6,7 @@ import FoodItemBlock from '../FoodItemBlock/FoodItemBlock';
 
 
 const HomePage = () => {
-    const [foodItem, setFoodItem] = useState(dummyData);
+    const [foodItem] = useState(dummyData);
     const [category, setCategory] = useState('breakfast');
     return (
         <div>
@@ -40,7 +40,7 @@ const HomePage = () => {
                     foodItem.map((food) => {
                     return(
                         food.category === category &&
-                        <FoodItemBlock id={food.id} food={food}></FoodItemBlock>
+                        <FoodItemBlock key={food.id} food={food}></FoodItemBlock>
                     )
                     })
                 }

@@ -1,4 +1,5 @@
 .food-item-block{
+    color: black;
     width: 30%; 
     height: 500px;
     margin: 10px 10px;
@@ -9,6 +10,7 @@
     box-shadow: 1px 1px 5px 1px grey;
     float: left;
     transition: all .2s ease-in-out;
+    cursor: pointer;
 }
 .food-item-block:hover{
     transform: scale(1.05);
