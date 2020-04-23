@@ -6,7 +6,7 @@ const dummyData =[
         "img" : "https://i.ibb.co/pdfGzyp/breakfast1.png" ,
         "price": 12.00,
         "shortDescription" : "Quality food at low price.",
-        "fullDescription" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s."
+        "fullDescription" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry.  "
     },
     {   
         "id" : 2,
@@ -15,7 +15,7 @@ const dummyData =[
         "img" : "https://i.ibb.co/8bJV04d/breakfast2.png" ,
         "price": 15,
         "shortDescription" : "Quality food at low price.",
-        "fullDescription" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s."
+        "fullDescription" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry.  "
     },    
     {   
         "id" : 3,
@@ -24,7 +24,7 @@ const dummyData =[
         "img" : "https://i.ibb.co/xjkVyVZ/breakfast3.png" ,
         "price": 22,
         "shortDescription" : "Quality food at low price.",
-        "fullDescription" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s."
+        "fullDescription" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry.  "
     },    
     {   
         "id" : 4,
@@ -33,7 +33,7 @@ const dummyData =[
         "img" : "https://i.ibb.co/GPS1MS0/breakfast4.png" ,
         "price":16,
         "shortDescription" : "Quality food at low price.",
-        "fullDescription" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s."
+        "fullDescription" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry.  "
     },
     {   
         "id" : 5,
@@ -42,7 +42,7 @@ const dummyData =[
         "img" : "https://i.ibb.co/brDv96s/breakfast5.png" ,
         "price": 8,
         "shortDescription" : "Quality food at low price.",
-        "fullDescription" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s."
+        "fullDescription" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry.  "
     },
     {   
         "id" : 6,
@@ -51,7 +51,7 @@ const dummyData =[
         "img" : "https://i.ibb.co/WfVDMQ2/breakfast6.png" ,
         "price": 32,
         "shortDescription" : "Quality food at low price.",
-        "fullDescription" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s."
+        "fullDescription" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry.  "
     },
     {   
         "id" : 7,
@@ -60,7 +60,7 @@ const dummyData =[
         "img" : "https://i.ibb.co/F7CKNrj/lunch1.png" ,
         "price": 17,
         "shortDescription" : "Quality food at low price.",
-        "fullDescription" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s."
+        "fullDescription" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry.  "
     },
     {   
         "id" : 8,
@@ -69,7 +69,7 @@ const dummyData =[
         "img" : "https://i.ibb.co/zGTrGFw/lunch2.png" ,
         "price": 11,
         "shortDescription" : "Quality food at low price.",
-        "fullDescription" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s."
+        "fullDescription" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry.  "
     },    
     {   
         "id" : 9,
@@ -78,7 +78,7 @@ const dummyData =[
         "img" : "https://i.ibb.co/prFCj77/lunch3.png" ,
         "price": 15,
         "shortDescription" : "Quality food at low price.",
-        "fullDescription" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s."
+        "fullDescription" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry.  "
     },    
     {   
         "id" : 10,
@@ -87,7 +87,7 @@ const dummyData =[
         "img" : "https://i.ibb.co/pX701Bg/lunch4.png" ,
         "price":34,
         "shortDescription" : "Quality food at low price.",
-        "fullDescription" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s."
+        "fullDescription" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry.  "
     },    
     {   
         "id" : 11,
@@ -96,7 +96,7 @@ const dummyData =[
         "img" : "https://i.ibb.co/f85H3vz/lunch5.png" ,
         "price": 38,
         "shortDescription" : "Quality food at low price.",
-        "fullDescription" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s."
+        "fullDescription" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry.  "
     }, 
     {   
         "id" : 12,
@@ -105,7 +105,7 @@ const dummyData =[
         "img" : "https://i.ibb.co/Vpf4qPW/lunch6.png" ,
         "price": 42,
         "shortDescription" : "Quality food at low price.",
-        "fullDescription" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s."
+        "fullDescription" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry.  "
     },
     {   
         "id" : 13,
@@ -114,7 +114,7 @@ const dummyData =[
         "img" : "https://i.ibb.co/JB1JctT/dinner4.png" ,
         "price": 29,
         "shortDescription" : "Quality food at low price.",
-        "fullDescription" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s."
+        "fullDescription" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry.  "
     },
     {   
         "id" : 14,
@@ -123,7 +123,7 @@ const dummyData =[
         "img" : "https://i.ibb.co/BsmW04m/dinner1.png" ,
         "price": 17,
         "shortDescription" : "Quality food at low price.",
-        "fullDescription" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s."
+        "fullDescription" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry.  "
     },
     {   
         "id" : 15,
@@ -132,7 +132,7 @@ const dummyData =[
         "img" : "https://i.ibb.co/85FdR1G/dinner2.png" ,
         "price":19,
         "shortDescription" : "Quality food at low price.",
-        "fullDescription" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s."
+        "fullDescription" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry.  "
     },
     {   
         "id" : 16,
@@ -141,7 +141,7 @@ const dummyData =[
         "img" : "https://i.ibb.co/7CNNcX6/dinner3.png" ,
         "price": 26,
         "shortDescription" : "Quality food at low price.",
-        "fullDescription" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s."
+        "fullDescription" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry.  "
     },
     {   
         "id" : 17,
@@ -150,7 +150,7 @@ const dummyData =[
         "img" : "https://i.ibb.co/CBYXsWr/dinner5.png",
         "price": 13,
         "shortDescription" : "Quality food at low price.",
-        "fullDescription" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s."
+        "fullDescription" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry.  "
     },
     {   
         "id" : 18,
@@ -159,7 +159,7 @@ const dummyData =[
         "img" : "https://i.ibb.co/KV78f0v/dinner6.png",
         "price": 14,
         "shortDescription" : "Quality food at low price.",
-        "fullDescription" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s."
+        "fullDescription" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum is simply dummy text of the printing and typesetting industry.  "
     }
    
 ]

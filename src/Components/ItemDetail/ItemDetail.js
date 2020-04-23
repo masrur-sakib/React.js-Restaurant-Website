@@ -18,7 +18,7 @@ const ItemDetail = (props) => {
                     <h1>{selectedItem.name}</h1>
                     <p>{selectedItem.fullDescription}</p>
                     <div className="d-flex flex-row">
-                        <h1>${totalPrice}</h1>
+                        <h1 className='item-price'>${totalPrice}</h1>
                         <div className='food-quantity'>
                             <span className='btn' onClick={() => setQuantity(quantity <=1 ? 1 :quantity-1)}>-</span>
                             <b>{quantity}</b>
