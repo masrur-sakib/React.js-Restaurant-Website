@@ -5,9 +5,10 @@
     margin: 10px 10px;
     padding: 20px;
     text-align: center;
-    border: 1px solid grey;
-    border-radius: 20px;
-    box-shadow: 1px 1px 5px 1px grey;
+    /* border: 1px solid grey; */
+    border-radius: 10px;
+    /* box-shadow: 1px 1px 5px 1px grey; */
+    box-shadow: 0 0 35px -2px #48497926;
     float: left;
     transition: all .2s ease-in-out;
     cursor: pointer;

@@ -7,9 +7,9 @@ import './Header.css'
 const Header = () => {
     return (
         <div>
-            <div>
+            {/* <div>
                 <p className='site-notice bg-light'> <b> Site work is going on, Work will be done asap. </b></p>
-            </div>
+            </div> */}
             <nav className="navbar navbar-expand-lg navbar-light">
                 <a href="/"><img className='site-logo' src={logo} alt="" /></a>
                 <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
